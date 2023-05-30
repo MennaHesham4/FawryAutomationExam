@@ -12,6 +12,6 @@ Steps:
 9. make sure that the total amount of all items is correct with the shipping fees if exist
 
 
-all you need to have java, chromebrowser to run this project, 
-you need to add your email , password before starting run the test scenario
+all you need to have java, chromebrowser at your PC to run this project, 
+you need to add your amazon email , password before starting run the test scenario
 
